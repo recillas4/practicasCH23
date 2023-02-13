@@ -11,7 +11,7 @@
 //let tengoSueldo;
 
 function op(horasTrabajadas, costeHora) {
-  alert("el sueldo es" + sueldototalhora);
+  alert("el sueldo es " + sueldototalhora);
 }
 
 let costeHora = prompt("Cuanto cuesta la hr trabajada?: ");
@@ -20,4 +20,5 @@ let sueldototalhora = horasTrabajadas * costeHora;
 op();
 
 
+console.log();
 
