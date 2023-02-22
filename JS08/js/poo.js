@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Object.prototype.
+=======
+>>>>>>> main
 let persona = {
     nombre: 'Jorge',
     apellido: 'Recillas',
