@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jorgerecillas
+ *
+ */
+module operadoresLogicos {
+}
