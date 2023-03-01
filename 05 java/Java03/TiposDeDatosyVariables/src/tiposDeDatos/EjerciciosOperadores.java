@@ -19,8 +19,8 @@ public class EjerciciosOperadores {
 		
 		
 		
-			/*Verificar si un número está dentro de un rango específico
-			int num = 10;*/
+		/*Verificar si un número está dentro de un rango específico
+		int num = 10;*/
 		int num2 = 11;
 		if (num2 >= 10 && num2 < 20) { // rango del 10 - 20
 			System.out.println("esta dentro del rango");
@@ -30,15 +30,15 @@ public class EjerciciosOperadores {
 		
 		
 
-			/*
-			Verificar si una cadena es igual a otra o no
-			String cadena1 = "Hola";
-			String cadena2 = "hola";
-			*/
+		/*Verificar si una cadena es igual a otra o no
+		String cadena1 = "Hola";
+		String cadena2 = "hola";
+		*/
+		
 		String cadena1 = "Hola";
 		String cadena2 = "hola";
 		
-		if (cadena1 == cadena2) {
+		if (cadena1 == cadena2) {  
 			System.out.println("son iguales");
 		}else {
 			System.out.println("no son iguales");
