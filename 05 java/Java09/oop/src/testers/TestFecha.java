@@ -11,7 +11,7 @@ Fecha date = new Fecha();
 	date.setAnio(2023);
 	
 System.out.println(	date.diaMesAniio());	
-System.out.println("---> " + date);
+System.out.println("---> " + date); 
 
 
 
