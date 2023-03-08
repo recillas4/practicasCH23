@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/jorgerecillas/Desktop/Cohorte23/05 java/Java11/.metadata/.plugins/org.eclipse.jdt.core
+3718441224.index
+3956811959.index
+1865797976.index

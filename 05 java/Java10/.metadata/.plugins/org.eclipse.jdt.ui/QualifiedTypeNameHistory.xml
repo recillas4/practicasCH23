@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.generation.jara.clases.AreaPerimetro"/>
+    <fullyQualifiedTypeName name="com.generation.jara.clases.FigurasGeometricas"/>
+    <fullyQualifiedTypeName name="com.generation.jara.clases.Taco"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.generation.jara.clases.ClaseGenerica"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.security.Certificate"/>
+</qualifiedTypeNameHistroy>

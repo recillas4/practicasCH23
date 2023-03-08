@@ -1,0 +1,37 @@
+package manejoExcepciones;
+
+import java.util.Scanner;
+
+public class NoComprobadas {
+	public static void main (String [] args) {
+		
+		Scanner dato = new Scanner(System.in);
+		System.out.println("introduzca un valor");
+		int divisor;
+		
+		
+		try {
+			
+			divisor = Integer.parseInt(dato.next());
+			int div = divisor;
+			System.out.println("--->"+div);
+			
+		}catch(ArithmeticException e) {
+			System.out.println("capturando la excepcion"+e.getMessage());
+			
+		}
+		
+		System.out.println("continuamos con el flujo de la app");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+
+}
