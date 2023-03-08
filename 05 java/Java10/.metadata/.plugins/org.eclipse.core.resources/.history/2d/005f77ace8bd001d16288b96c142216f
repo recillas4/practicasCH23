@@ -1,0 +1,26 @@
+package manejoExcepciones;
+
+public class NoComprobadas {
+	public static void main (String [] args) {
+		
+		try {
+			
+			int div = 10/0;
+			System.out.println("--->"+div);
+		}catch(Exception e) {
+			
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+
+}
