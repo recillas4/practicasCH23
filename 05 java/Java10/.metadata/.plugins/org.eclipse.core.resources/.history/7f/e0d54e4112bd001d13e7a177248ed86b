@@ -1,0 +1,16 @@
+package com.generation.jara.mains;
+
+import com.generation.jara.clases.AreaPerimetro;
+
+public class TestAreaPerimetro {
+
+	public static void main(String[] args) {
+		
+		AreaPerimetro ap = new AreaPerimetro();
+		
+		ap.area(5);
+		System.out.println("---> "+ap.area(5));
+
+	}
+
+}

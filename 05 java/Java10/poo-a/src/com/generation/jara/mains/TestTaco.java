@@ -1,0 +1,22 @@
+package com.generation.jara.mains;
+
+import com.generation.jara.clases.Taco;
+
+public class TestTaco {
+
+	public static void main(String[] args) {
+		
+		Taco t = new Taco();
+		
+		t.setGuisado("barbacoa");
+		t.setNumeroDeTortilla(2);
+		t.setTamanioDeTortilla("grande");
+		t.setTipoDeTortilla("maiz");
+		t.setPrecio(25);
+		
+		System.out.println(t.getGuisado());
+		System.out.println(t.setNumeroDeTortilla());
+
+	}
+
+}
