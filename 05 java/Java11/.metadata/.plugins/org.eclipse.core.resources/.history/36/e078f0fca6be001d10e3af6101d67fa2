@@ -1,0 +1,32 @@
+package com.jara.testers;
+
+import com.jara.clases.Circulo;
+import com.jara.clases.Cuadrado;
+import com.jara.clases.FigurasGeometricas;
+import com.jara.clases.Rectangulo;
+import com.jara.clases.Triangulo;
+
+public class TestFigurasGeometricas {
+
+	public static void main(String[] args) {
+		
+	FigurasGeometricas rectangulo = new Rectangulo(10,2);
+	FigurasGeometricas circulo = new Circulo(2);
+	FigurasGeometricas triangulo = new Triangulo(50,4);
+	FigurasGeometricas cuadrado = new Cuadrado(30);
+	
+	
+	System.out.println(rectangulo.areas());
+	System.out.println(circulo.areas());
+	System.out.println(triangulo.areas());
+	System.out.println(cuadrado.areas());
+	
+	
+	System.out.println(rectangulo.toString());
+	
+		
+		
+
+	}
+
+}

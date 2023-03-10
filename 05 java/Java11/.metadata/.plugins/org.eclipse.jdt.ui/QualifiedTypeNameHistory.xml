@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.jara.clases.AlumnoB"/>
+    <fullyQualifiedTypeName name="com.jara.clases.PersonaP"/>
+    <fullyQualifiedTypeName name="com.jara.clases.Rectangulo"/>
+    <fullyQualifiedTypeName name="com.jara.clases.Circulo"/>
+    <fullyQualifiedTypeName name="com.jara.clases.Triangulo"/>
+    <fullyQualifiedTypeName name="com.jara.clases.Cuadrado"/>
+    <fullyQualifiedTypeName name="com.jara.clases.FigurasGeometricas"/>
+    <fullyQualifiedTypeName name="com.jara.clases.Suma"/>
+    <fullyQualifiedTypeName name="com.jara.clases.OperacionesAritmeticas"/>
+    <fullyQualifiedTypeName name="com.jara.clases.Mensajes"/>
+    <fullyQualifiedTypeName name="com.jara.clases.Resta"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.jara.clases.CuentaAhorros"/>
+</qualifiedTypeNameHistroy>
