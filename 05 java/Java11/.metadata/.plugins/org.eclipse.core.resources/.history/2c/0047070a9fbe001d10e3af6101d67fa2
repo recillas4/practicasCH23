@@ -1,0 +1,19 @@
+package com.jara.clases;
+
+public class Triangulo {
+	private int base;
+	private int altura;
+	
+	
+	public Triangulo(int base, int altura) {
+		super();
+		this.base = base;
+		this.altura = altura;
+	}
+
+
+	
+	
+	
+
+}

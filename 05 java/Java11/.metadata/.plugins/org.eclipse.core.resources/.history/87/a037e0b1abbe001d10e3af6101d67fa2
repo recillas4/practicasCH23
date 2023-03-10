@@ -1,0 +1,15 @@
+package com.jara.testers;
+
+import com.jara.clases.Suma;
+
+public class TestOperacionesAritmeticas {
+
+	public static void main(String[] args) {
+		
+		
+		Suma suma = new Suma(2, 3);
+		System.out.println(suma);
+
+	}
+
+}

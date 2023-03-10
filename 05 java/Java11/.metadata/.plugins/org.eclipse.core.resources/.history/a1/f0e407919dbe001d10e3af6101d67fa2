@@ -1,0 +1,19 @@
+package com.jara.clases;
+
+public class Teiangulo {
+	private int base;
+	private int altura;
+	
+	
+	public Teiangulo(int base, int altura) {
+		super();
+		this.base = base;
+		this.altura = altura;
+	}
+
+
+	
+	
+	
+
+}

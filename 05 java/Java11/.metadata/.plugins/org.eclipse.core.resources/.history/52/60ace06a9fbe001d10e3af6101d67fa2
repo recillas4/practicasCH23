@@ -1,0 +1,30 @@
+package com.jara.clases;
+
+public class Cuadrado extends FigurasGeometricas {
+	
+	private int lado;
+
+	public Cuadrado(int lado) {
+		this.lado = lado;
+	}
+	
+	
+	public double areas() {
+		// TODO Auto-generated method stub
+		return (lado*lado*lado);
+	}
+
+
+	public int getLado() {
+		return lado;
+	}
+
+
+	public void setLado(int lado) {
+		this.lado = lado;
+	}
+	
+	
+	
+
+}

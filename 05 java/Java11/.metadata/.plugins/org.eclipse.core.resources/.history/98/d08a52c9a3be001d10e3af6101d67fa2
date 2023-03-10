@@ -1,0 +1,11 @@
+package com.jara.clases;
+
+public abstract class FigurasGeometricas {
+	
+	// contenido de metodos abstractos 
+	//no imprimentado o definido 
+	
+	public abstract double areas(); 
+	
+
+}
