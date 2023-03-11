@@ -1,0 +1,39 @@
+package hilos.jara.formatthread;
+
+import java.util.Iterator;
+
+public class Hilo1 extends Thread {
+	
+	
+	
+	public Hilo1(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+	
+	@Override
+	public void run() {
+		System.out.println("se inicia el Thread o hilo "+this.getName());
+		
+		for (int i = 0; i < 10; i++) {
+			
+			try {
+				Thread.sleep(10);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+		}
+		
+		System.out.println("se termina el Thread o hilo "+this.getName());
+		
+		
+		
+	}
+
+	
+	
+	
+
+}

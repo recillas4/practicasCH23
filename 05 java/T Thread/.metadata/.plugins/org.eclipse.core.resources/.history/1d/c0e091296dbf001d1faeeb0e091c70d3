@@ -1,0 +1,17 @@
+package hilos.jara.prueba;
+
+import hilos.jara.formatthread.Hilo1;
+
+public class TestThread {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Thread h = new Hilo1("Juan");
+		System.out.println(h.getState());
+		
+		
+
+	}
+
+}
