@@ -1,0 +1,5 @@
+package hilos.jara.formarunnable;
+
+public interface Hilo2 {
+
+}
